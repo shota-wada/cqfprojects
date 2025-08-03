@@ -1,4 +1,4 @@
-# https://github.com/shota-wada/optimal_portfolio_allocation
+# Optimal Portfolio Allocation and Value at Risk (VaR)
 
 Author: Shota Wada  
 Date: June 2023
