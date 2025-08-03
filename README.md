@@ -1,4 +1,4 @@
-# CQF Exam Report – June 2023 Cohort
+# https://github.com/shota-wada/optimal_portfolio_allocation
 
 Author: Shota Wada  
 Date: June 2023
